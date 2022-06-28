@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-vish
+- admin-user: vish8957-admin
+- manager-user: vish8957
