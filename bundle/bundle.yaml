@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "cloudbees-vish-dev-controller"
+description: "CloudBees CI configuration bundle for the cloudbees-vish dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/cloudbees-vish/dev-controller"
+parent: "base"
